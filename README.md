@@ -1,2 +1,0 @@
-# doctalk-backend
-chatbot medicale 
